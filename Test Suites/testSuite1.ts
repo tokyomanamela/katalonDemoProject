@@ -19,7 +19,7 @@
    <testCaseLink>
       <guid>01649774-4969-4af3-98f4-ca85648ee721</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/TestUsers/testcase2</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
